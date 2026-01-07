@@ -13,50 +13,51 @@ const experiences = [
     period: '2023 - Present',
     type: 'Full-time',
     description:
-      'Leading frontend development for enterprise web applications, focusing on React, Next.js, and modern animation libraries.',
+      'Overseeing frontend architecture and development for enterprise-grade web applications. Continued growth from prior project collaborations into a full-time engineering role.',
     achievements: [
       'Led frontend architecture for 3 major product launches',
       'Reduced load time by 40% through performance optimization',
-      'Implemented design system used across 5 projects',
-      'Mentored 2 junior developers in React best practices',
+      'Implemented design system used across multiple internal products',
+      'Mentored junior developers in React and best practices',
     ],
     technologies: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
   },
   {
     id: 2,
-    role: 'Full Stack Developer',
-    company: 'Digital Agency',
-    location: 'India',
+    role: 'Freelance / Project Developer',
+    company: 'Self-Initiated & Client Projects',
+    location: 'India (Remote)',
     period: '2022 - 2023',
-    type: 'Full-time',
+    type: 'Part-time / Freelance',
     description:
-      'Built end-to-end web applications for various clients, handling both frontend and backend development.',
+      'Worked on independent and client-based projects while pursuing studies, focusing on full-stack development and real-world problem solving.',
     achievements: [
-      'Delivered 5+ client projects from concept to deployment',
-      'Built real-time features using WebSocket integration',
-      'Implemented OAuth authentication for enterprise clients',
-      'Created RESTful APIs serving 10k+ daily requests',
+      'Delivered multiple client projects from concept to deployment',
+      'Built real-time features with WebSocket communication',
+      'Developed authentication systems using OAuth and JWT',
+      'Created and maintained APIs handling thousands of daily requests',
     ],
     technologies: ['React', 'FastAPI', 'MongoDB', 'Redux', 'JWT'],
   },
   {
     id: 3,
-    role: 'Junior Developer',
-    company: 'Startup',
+    role: 'Student Developer',
+    company: 'Academic & Personal Projects',
     location: 'India',
     period: '2021 - 2022',
-    type: 'Full-time',
+    type: 'Project-based',
     description:
-      'Started professional journey focusing on React development and building responsive web applications.',
+      'Focused on building responsive React applications as part of academic and personal learning projects, laying the foundation for a full-stack career.',
     achievements: [
-      'Developed responsive UI components from Figma designs',
-      'Participated in agile development processes',
-      'Contributed to internal tools and dashboards',
-      'Learned best practices for code quality and testing',
+      'Built responsive UI components from design prototypes',
+      'Collaborated with peers on small-scale project sprints',
+      'Developed internal dashboards and learning tools',
+      'Adopted clean code and testing practices early on',
     ],
     technologies: ['React', 'JavaScript', 'CSS', 'Git'],
   },
 ];
+
 
 const Experience = () => {
   return (

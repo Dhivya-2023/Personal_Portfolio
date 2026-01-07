@@ -7,16 +7,16 @@ import { MapPin, Calendar, Briefcase, GraduationCap } from 'lucide-react';
 const timeline = [
   {
     year: '2024',
-    title: 'Frontend Developer',
+    title: 'Full Stack Developer',
     company: 'Current Position',
-    description: 'Leading frontend development for complex web applications with React, Next.js, and modern animation libraries.',
+    description: 'Built end-to-end solutions using React, FastAPI, and various databases for enterprise clients.',
     icon: Briefcase,
   },
   {
     year: '2023',
-    title: 'Full Stack Developer',
+    title: 'Frontend Developer',
     company: 'Previous Role',
-    description: 'Built end-to-end solutions using React, FastAPI, and various databases for enterprise clients.',
+    description: 'Learning frontend development for complex web applications with React, Next.js, and modern animation libraries.',
     icon: Briefcase,
   },
   {

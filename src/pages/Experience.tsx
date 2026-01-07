@@ -7,7 +7,7 @@ import { Briefcase, Calendar, MapPin, ExternalLink } from 'lucide-react';
 const experiences = [
   {
     id: 1,
-    role: 'Frontend Developer',
+    role: 'Fullstack Developer',
     company: 'Tech Company',
     location: 'India (Remote)',
     period: '2023 - Present',

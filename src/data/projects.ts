@@ -74,7 +74,7 @@ export const projects: Project[] = [
     tech: ['React', 'FastAPI', 'JWT', 'MongoDB', 'Redux'],
     image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=600&fit=crop',
     badge: 'LIVE',
-    liveUrl: 'https://thunderauto.vercel.app/',
+    liveUrl: 'https://employee-portal-omega.vercel.app/',
     features: [
       'Role-based access control',
       'Leave management system',

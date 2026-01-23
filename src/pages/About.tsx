@@ -7,9 +7,9 @@ import { MapPin, Calendar, Briefcase, GraduationCap } from 'lucide-react';
 const timeline = [
   {
     year: '2024',
-    title: 'Frontend Developer',
+    title:'IT Practitioner',
     company: 'Current Position',
-    description: 'Leading frontend development for complex web applications with React, Next.js, and modern animation libraries.',
+    description: 'Leading frontend development for complex web applications with React and modern animation libraries.',
     icon: Briefcase,
   },
   {
@@ -70,8 +70,8 @@ const About = () => {
                   accessible, and visually stunning web applications.
                 </p>
                 <p className="text-lg text-muted-foreground leading-relaxed">
-                  With expertise in React, Next.js, and modern CSS frameworks, combined with 
-                  backend experience in FastAPI and NestJS, I bridge the gap between beautiful 
+                  With expertise in React, Redux, and modern CSS frameworks, combined with 
+                  backend experience in FastAPI ,bridge the gap between beautiful 
                   designs and robust implementations.
                 </p>
               </FadeIn>

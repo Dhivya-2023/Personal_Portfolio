@@ -167,11 +167,11 @@ const Index = () => {
               <div className="grid grid-cols-2 gap-4">
                 {[
                   { label: 'React.js', highlight: true },
-                  { label: 'Next.js 14', highlight: true },
+                  // { label: 'Next.js 14', highlight: true },
                   { label: 'Tailwind CSS', highlight: true },
                   { label: 'Framer Motion', highlight: true },
                   { label: 'FastAPI', highlight: false },
-                  { label: 'NestJS', highlight: false },
+                  // { label: 'NestJS', highlight: false },
                   { label: 'MongoDB', highlight: false },
                   { label: 'PostgreSQL', highlight: false },
                 ].map((skill) => (

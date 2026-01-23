@@ -98,22 +98,22 @@ export const projects: Project[] = [
       'Offline mode for rural areas',
     ],
   },
-  {
-    id: 'saas-dashboard',
-    title: 'SaaS Dashboard (Full Stack)',
-    description: 'A complete end-to-end SaaS dashboard with authentication, analytics, and subscription management.',
-    tech: ['Next.js 14', 'NestJS', 'Prisma', 'MySQL', 'JWT', 'Swagger'],
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop',
-    badge: 'NDA',
+  // {
+  //   id: 'saas-dashboard',
+  //   title: 'SaaS Dashboard (Full Stack)',
+  //   description: 'A complete end-to-end SaaS dashboard with authentication, analytics, and subscription management.',
+  //   tech: ['Next.js 14', 'NestJS', 'Prisma', 'MySQL', 'JWT', 'Swagger'],
+  //   image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop',
+  //   badge: 'NDA',
   
-    features: [
-      'User authentication with JWT',
-      'Real-time analytics dashboard',
-      'Subscription management',
-      'API documentation with Swagger',
-      'Role-based permissions',
-    ],
-  },
+  //   features: [
+  //     'User authentication with JWT',
+  //     'Real-time analytics dashboard',
+  //     'Subscription management',
+  //     'API documentation with Swagger',
+  //     'Role-based permissions',
+  //   ],
+  // },
   {
     id: 'rbg-research',
     title: 'RBG Research – Company Website',

@@ -7,28 +7,28 @@ import { Briefcase, Calendar, MapPin, ExternalLink } from 'lucide-react';
 const experiences = [
   {
     id: 1,
-    role: 'Frontend Developer',
-    company: 'Tech Company',
-    location: 'India (Remote)',
-    period: '2023 - Present',
+    role: 'IT Practitioner',
+    company: 'Product Company',
+    location: 'India',
+    period: '2024 - Present',
     type: 'Full-time',
     description:
-      'Leading frontend development for enterprise web applications, focusing on React, Next.js, and modern animation libraries.',
+      'Leading frontend development for enterprise web applications, focusing on React,  and modern animation libraries.',
     achievements: [
       'Led frontend architecture for 3 major product launches',
       'Reduced load time by 40% through performance optimization',
       'Implemented design system used across 5 projects',
       'Mentored 2 junior developers in React best practices',
     ],
-    technologies: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
+    technologies: ['React', 'JavaScript', 'Tailwind CSS', 'Framer Motion'],
   },
   {
     id: 2,
     role: 'Full Stack Developer',
-    company: 'Digital Agency',
+    company: 'Software',
     location: 'India',
-    period: '2022 - 2023',
-    type: 'Full-time',
+    period: '2023 - 2024',
+    type: 'Internship',
     description:
       'Built end-to-end web applications for various clients, handling both frontend and backend development.',
     achievements: [
@@ -45,7 +45,7 @@ const experiences = [
     company: 'Startup',
     location: 'India',
     period: '2021 - 2022',
-    type: 'Full-time',
+    type: 'Freelance',
     description:
       'Started professional journey focusing on React development and building responsive web applications.',
     achievements: [

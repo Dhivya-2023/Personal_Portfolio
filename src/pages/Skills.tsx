@@ -27,11 +27,11 @@ const skillCategories = [
     description: 'Deep expertise in modern frontend technologies and performance optimization',
     skills: [
       { name: 'React.js', icon: Code2, isPrimary: true },
-      { name: 'Next.js 14', icon: Globe, isPrimary: true },
+      // { name: 'Next.js 14', icon: Globe, isPrimary: true },
       { name: 'Tailwind CSS', icon: Palette, isPrimary: true },
       { name: 'Framer Motion', icon: Zap, isPrimary: true },
       { name: 'Redux', icon: Boxes, isPrimary: true },
-      { name: 'TypeScript', icon: Code2, isPrimary: true },
+      { name: 'JavaScript', icon: Code2, isPrimary: true },
       { name: 'Responsive Design', icon: Smartphone, isPrimary: false },
       { name: 'Performance Optimization', icon: Zap, isPrimary: true },
     ],
@@ -43,8 +43,8 @@ const skillCategories = [
     description: 'Solid foundation in server-side development and API design',
     skills: [
       { name: 'FastAPI', icon: Server, isPrimary: false },
-      { name: 'NestJS', icon: Server, isPrimary: false },
-      { name: 'REST APIs', icon: Globe, isPrimary: false },
+      // { name: 'NestJS', icon: Server, isPrimary: false },
+      // { name: 'REST APIs', icon: Globe, isPrimary: false },
       { name: 'JWT Auth', icon: Shield, isPrimary: false },
       { name: 'OAuth', icon: Shield, isPrimary: false },
       { name: 'WebSocket', icon: Zap, isPrimary: false },
@@ -58,7 +58,7 @@ const skillCategories = [
     skills: [
       { name: 'MongoDB Atlas', icon: Database, isPrimary: false },
       { name: 'MySQL', icon: Database, isPrimary: false },
-      { name: 'Prisma ORM', icon: Database, isPrimary: false },
+      // { name: 'Prisma ORM', icon: Database, isPrimary: false },
     ],
   },
   {
@@ -180,7 +180,7 @@ const Skills = () => {
                 </div>
                 <h3 className="font-display font-semibold text-xl mb-2">Full-Stack Capability</h3>
                 <p className="text-muted-foreground">
-                  Solid backend foundations with FastAPI and NestJS, enabling end-to-end 
+                  Solid backend foundations with FastAPI enabling end-to-end 
                   feature development when needed.
                 </p>
               </div>
